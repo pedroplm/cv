@@ -1,0 +1,69 @@
+body {
+  background-color: #F7ECDE;
+  margin: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #9ED2C6;
+  height: 1px;
+  width: 7%;
+}
+
+h1 {
+  color: #54BAB9;
+  font-weight: bold;
+
+}
+
+h3 {
+  color: #9ED2C6;
+  font-weight: bold;
+
+}
+
+th {
+  color: #9ED2C6;
+  font-weight: bold;
+}
+
+em {
+  color: #9ED2C6;
+  font-weight: bolder;
+}
+
+.circular{
+  border-radius: 45%;
+}
+
+
+table{
+  margin:0 auto;
+
+}
+p{
+  text-align: center;
+
+}
+
+.cell{
+  width: 5%
+}
+
+.center{
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.myUL {
+  display: inline-block;
+  text-align: left;
+}
+.light-color{
+  background-color: #E9DAC1;
+  margin:0;
+}
